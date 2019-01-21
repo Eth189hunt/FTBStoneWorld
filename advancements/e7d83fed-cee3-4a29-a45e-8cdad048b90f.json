@@ -1,13 +1,67 @@
 {
-  "petrock:petrock/stoneium": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "get_stoneium": "2019-01-21 12:01:35 -0700"
+      "has_stick": "2019-01-21 14:47:27 -0700"
     },
     "done": true
   },
-  "petrock:petrock/petrockspawn": {
+  "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "petrockspawn": "2019-01-21 12:01:35 -0700"
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:47:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/root": {
+    "criteria": {
+      "iron_tools": "2019-01-21 12:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:47:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
     },
     "done": true
   },
@@ -18,9 +72,87 @@
     },
     "done": false
   },
-  "petrock:petrock/root": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "iron_tools": "2019-01-21 12:01:35 -0700"
+      "has_stick": "2019-01-21 14:47:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:47:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-01-21 14:47:54 -0700"
+    },
+    "done": true
+  },
+  "buildcraftcore:root": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:47:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:47:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-01-21 14:47:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:47:43 -0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/stoneium": {
+    "criteria": {
+      "get_stoneium": "2019-01-21 12:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-01-21 14:49:49 -0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/petrockspawn": {
+    "criteria": {
+      "petrockspawn": "2019-01-21 12:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-01-21 14:46:55 -0700"
     },
     "done": true
   }
