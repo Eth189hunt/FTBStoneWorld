@@ -1,0 +1,27 @@
+{
+  "petrock:petrock/stoneium": {
+    "criteria": {
+      "get_stoneium": "2019-01-21 12:01:35 -0700"
+    },
+    "done": true
+  },
+  "petrock:petrock/petrockspawn": {
+    "criteria": {
+      "petrockspawn": "2019-01-21 12:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2019-01-21 12:01:15 -0700",
+      "river": "2019-01-21 12:01:50 -0700"
+    },
+    "done": false
+  },
+  "petrock:petrock/root": {
+    "criteria": {
+      "iron_tools": "2019-01-21 12:01:35 -0700"
+    },
+    "done": true
+  }
+}
