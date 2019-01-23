@@ -1,28 +1,4 @@
 {
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2019-01-21 14:49:30 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2019-01-21 14:53:58 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2019-01-21 14:47:44 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2019-01-21 14:49:30 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-01-21 14:53:58 -0700"
@@ -35,21 +11,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2019-01-22 22:04:30 -0700"
+    },
+    "done": false
+  },
   "petrock:petrock/root": {
     "criteria": {
       "iron_tools": "2019-01-21 14:47:35 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
-      "has_stick": "2019-01-21 14:53:58 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stonebrick": {
-    "criteria": {
-      "has_stone": "2019-01-21 19:54:23 -0700"
+      "has_planks": "2019-01-22 21:56:08 -0700"
     },
     "done": true
   },
@@ -59,9 +47,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
     },
     "done": true
   },
@@ -71,9 +59,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/transportation/minecart": {
     "criteria": {
-      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
     },
     "done": true
   },
@@ -85,9 +73,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2019-01-21 14:53:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
     },
     "done": true
   },
@@ -109,6 +121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-01-21 14:53:58 -0700"
@@ -121,15 +139,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
-      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+      "has_at_least_9_iron_ingot": "2019-01-22 21:55:01 -0700"
     },
     "done": true
   },
-  "buildcraftcore:root": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "has_stick": "2019-01-21 14:53:58 -0700"
+      "has_planks": "2019-01-22 21:56:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:49:30 -0700"
     },
     "done": true
   },
@@ -139,15 +163,9 @@
     },
     "done": true
   },
-  "integrateddynamics:root": {
+  "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
-      "criteria_0": "2019-01-21 14:53:41 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2019-01-21 19:54:23 -0700"
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
     },
     "done": true
   },
@@ -157,15 +175,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/1_alloy_smelter_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2019-01-22 22:04:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-01-21 19:54:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2019-01-22 16:35:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
     },
     "done": true
   },
@@ -184,6 +232,162 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-01-21 19:54:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:53:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-01-21 14:47:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:53:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2019-01-21 19:54:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "buildcraftcore:root": {
+    "criteria": {
+      "has_stick": "2019-01-21 14:53:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2019-01-21 14:53:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-01-21 19:54:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2019-01-22 21:55:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2019-01-21 14:49:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2019-01-22 21:56:08 -0700"
     },
     "done": true
   },
@@ -208,6 +412,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2019-01-21 14:49:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2019-01-22 21:55:01 -0700"
     },
     "done": true
   }

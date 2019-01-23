@@ -137,15 +137,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
-    "criteria": {
-      "has_hardened_clay": "2019-01-21 19:59:03 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-01-21 19:54:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2019-01-21 19:59:03 -0700"
     },
     "done": true
   },
@@ -161,15 +161,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2019-01-21 20:00:32 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-01-21 19:53:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-01-21 20:00:32 -0700"
     },
     "done": true
   },
@@ -239,15 +239,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
-    "criteria": {
-      "has_hardened_clay": "2019-01-21 19:59:03 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-01-21 19:54:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2019-01-21 19:59:03 -0700"
     },
     "done": true
   },
@@ -385,6 +385,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "creeper": "2019-01-22 14:53:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-01-21 19:54:26 -0700"
@@ -447,27 +453,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2019-01-21 19:54:28 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-01-21 19:54:26 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_stonebrick": "2019-01-21 20:06:59 -0700"
+      "has_stick": "2019-01-21 19:54:28 -0700"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-01-21 19:59:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2019-01-21 20:06:59 -0700"
     },
     "done": true
   },
@@ -614,6 +620,12 @@
       "has_brick": "2019-01-21 20:00:39 -0700"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "creeper": "2019-01-22 14:53:16 -0700"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
