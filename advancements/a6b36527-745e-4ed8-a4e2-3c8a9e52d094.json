@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-01-24 16:35:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-01-21 15:26:33 -0700"
@@ -319,15 +325,21 @@
     },
     "done": true
   },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2019-01-23 21:44:12 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-01-23 21:49:05 -0700"
     },
     "done": true
   },
-  "integrateddynamics:root": {
+  "minecraft:recipes/redstone/stone_button": {
     "criteria": {
-      "criteria_0": "2019-01-23 21:44:12 -0700"
+      "has_stone": "2019-01-24 16:35:51 -0700"
     },
     "done": true
   },
@@ -570,6 +582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-01-24 16:39:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-01-21 14:48:03 -0700"
@@ -594,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-01-24 16:35:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2019-01-23 21:20:56 -0700"
@@ -609,6 +633,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2019-01-23 21:20:56 -0700"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2019-01-24 16:32:59 -0700"
     },
     "done": true
   },
@@ -658,6 +688,7 @@
     "criteria": {
       "skeleton": "2019-01-23 22:20:43 -0700",
       "zombie": "2019-01-23 21:57:32 -0700",
+      "silverfish": "2019-01-24 16:28:54 -0700",
       "witch": "2019-01-23 21:27:17 -0700",
       "spider": "2019-01-23 22:27:26 -0700"
     },
@@ -678,6 +709,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-01-21 15:27:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2019-01-24 16:35:51 -0700"
     },
     "done": true
   },

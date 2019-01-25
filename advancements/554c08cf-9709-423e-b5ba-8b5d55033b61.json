@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2019-01-24 20:49:56 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2019-01-22 23:34:15 -0700"
@@ -93,6 +99,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-01-22 23:34:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2019-01-24 20:49:56 -0700"
     },
     "done": true
   },
@@ -252,6 +264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2019-01-24 20:10:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-01-22 23:40:05 -0700"
@@ -279,6 +297,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2019-01-22 23:41:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2019-01-24 20:04:38 -0700"
     },
     "done": true
   },
@@ -369,6 +393,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-01-22 23:34:15 -0700"
+    },
+    "done": true
+  },
+  "rftools:builder": {
+    "criteria": {
+      "placed_builder": "2019-01-24 20:46:09 -0700"
     },
     "done": true
   },
@@ -505,6 +535,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-01-24 20:04:38 -0700"
+    },
+    "done": true
+  },
+  "chancecubes:root": {
+    "criteria": {
+      "cube_in_inventory": "2019-01-24 20:40:29 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2019-01-22 23:43:32 -0700"
@@ -622,6 +664,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-01-22 23:34:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-01-24 20:56:33 -0700"
     },
     "done": true
   },
@@ -750,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-01-24 20:04:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-01-22 23:42:43 -0700"
@@ -813,6 +867,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2019-01-22 23:22:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2019-01-24 20:49:56 -0700"
     },
     "done": true
   },
@@ -888,6 +948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-01-24 20:53:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-01-22 23:41:59 -0700"
@@ -900,6 +966,12 @@
       "zombie": "2019-01-22 23:54:54 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-01-24 20:49:56 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -940,6 +1012,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-01-22 23:30:18 -0700"
+    },
+    "done": true
+  },
+  "rftools:root": {
+    "criteria": {
+      "has_machine_frame": "2019-01-24 20:50:31 -0700"
     },
     "done": true
   },
@@ -1012,6 +1090,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2019-01-22 23:40:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2019-01-24 20:53:21 -0700"
     },
     "done": true
   },

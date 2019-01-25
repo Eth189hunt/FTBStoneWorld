@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-01-24 20:07:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-01-22 23:00:41 -0700"
@@ -478,6 +484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-01-24 16:31:27 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-01-22 22:16:12 -0700"
@@ -616,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-01-24 16:31:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2019-01-22 22:16:12 -0700"
@@ -665,6 +683,7 @@
       "skeleton": "2019-01-22 22:56:34 -0700",
       "zombie": "2019-01-22 22:56:46 -0700",
       "cave_spider": "2019-01-23 21:28:47 -0700",
+      "spider": "2019-01-24 16:19:27 -0700",
       "creeper": "2019-01-22 22:56:42 -0700",
       "enderman": "2019-01-22 23:02:25 -0700"
     },
@@ -691,6 +710,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-01-22 23:01:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2019-01-24 20:07:23 -0700"
     },
     "done": true
   },
@@ -751,6 +776,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-01-22 23:35:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2019-01-24 20:07:23 -0700"
     },
     "done": true
   },
@@ -899,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2019-01-24 16:31:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-01-22 23:17:47 -0700"
@@ -932,6 +969,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2019-01-22 23:38:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-01-24 16:31:59 -0700"
     },
     "done": true
   },
@@ -1043,6 +1086,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-01-24 16:31:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-01-24 15:56:10 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-01-22 22:29:45 -0700"
@@ -1094,6 +1149,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-01-22 23:01:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-01-24 20:07:23 -0700"
     },
     "done": true
   },
@@ -1160,6 +1221,12 @@
   "enderioconduits:start/2_conduit_binder": {
     "criteria": {
       "inv_changed-enderio:conduit_binder": "2019-01-22 23:35:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-01-24 15:56:10 -0700"
     },
     "done": true
   },
@@ -1330,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2019-01-24 20:07:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2019-01-22 22:46:20 -0700"
@@ -1369,6 +1442,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-22 23:17:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-01-24 20:07:23 -0700"
     },
     "done": true
   },
@@ -1435,6 +1514,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-22 23:17:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-01-24 15:56:10 -0700"
     },
     "done": true
   },
