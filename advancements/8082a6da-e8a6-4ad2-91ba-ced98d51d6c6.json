@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-01-26 03:44:10 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-01-23 10:39:33 -0700"
@@ -278,6 +284,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2019-01-23 21:47:50 -0700"
+    },
+    "done": true
+  },
+  "botania:challenge/flugel_eye": {
+    "criteria": {
+      "eye": "2019-01-26 03:49:14 -0700"
     },
     "done": true
   },
@@ -454,6 +466,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-21 19:57:46 -0700"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2019-01-26 03:41:57 -0700"
     },
     "done": true
   },
@@ -691,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-01-26 04:07:18 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-23 15:55:29 -0700"
@@ -699,8 +723,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2019-01-26 03:43:19 -0700",
       "skeleton": "2019-01-23 21:33:57 -0700",
       "zombie": "2019-01-23 21:30:49 -0700",
+      "witch": "2019-01-26 03:47:51 -0700",
       "creeper": "2019-01-22 14:53:16 -0700",
       "enderman": "2019-01-23 21:35:49 -0700"
     },
@@ -775,6 +801,12 @@
   "buildcraftcore:root": {
     "criteria": {
       "has_stick": "2019-01-21 19:54:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-01-26 04:10:55 -0700"
     },
     "done": true
   },
@@ -934,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-01-26 03:22:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-01-21 20:00:55 -0700"
@@ -949,6 +987,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-01-23 15:55:29 -0700"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2019-01-26 03:48:41 -0700"
     },
     "done": true
   },
@@ -1072,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-01-26 04:07:18 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-01-23 15:56:26 -0700"
@@ -1093,6 +1143,18 @@
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2019-01-21 19:59:03 -0700"
+    },
+    "done": true
+  },
+  "botania:main/gaia_guardian_kill": {
+    "criteria": {
+      "guardian": "2019-01-26 03:43:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2019-01-26 03:43:31 -0700"
     },
     "done": true
   },
@@ -1227,6 +1289,7 @@
       "forest": "2019-01-23 15:54:12 -0700",
       "deep_ocean": "2019-01-23 21:27:31 -0700",
       "beaches": "2019-01-21 19:53:07 -0700",
+      "plains": "2019-01-26 03:53:44 -0700",
       "ocean": "2019-01-21 12:51:49 -0700",
       "river": "2019-01-21 12:53:34 -0700"
     },
@@ -1316,6 +1379,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2019-01-26 04:08:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2019-01-21 19:59:03 -0700"
@@ -1331,6 +1400,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-01-23 15:55:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-01-26 03:25:27 -0700"
     },
     "done": true
   },
@@ -1367,6 +1442,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-01-23 10:43:37 -0700"
+    },
+    "done": true
+  },
+  "botania:challenge/thor_ring": {
+    "criteria": {
+      "ring": "2019-01-26 04:08:06 -0700"
     },
     "done": true
   },
