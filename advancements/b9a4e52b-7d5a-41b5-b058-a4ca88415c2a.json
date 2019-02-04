@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-02-03 00:51:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2019-01-24 20:07:23 -0700"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-01-31 19:13:52 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-01-22 23:00:41 -0700"
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "rftools:builder": {
+    "criteria": {
+      "placed_builder": "2019-01-31 19:00:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-01-22 22:29:45 -0700"
@@ -329,6 +347,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-01-31 18:54:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2019-01-22 23:00:41 -0700"
@@ -358,6 +382,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2019-01-23 19:30:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-02-03 00:51:37 -0700"
     },
     "done": true
   },
@@ -659,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-02-03 00:51:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-01-21 14:40:26 -0700"
@@ -703,6 +739,7 @@
       "skeleton": "2019-01-22 22:56:34 -0700",
       "zombie": "2019-01-22 22:56:46 -0700",
       "cave_spider": "2019-01-23 21:28:47 -0700",
+      "witch": "2019-02-03 00:42:50 -0700",
       "spider": "2019-01-24 16:19:27 -0700",
       "creeper": "2019-01-22 22:56:42 -0700",
       "enderman": "2019-01-22 23:02:25 -0700"
@@ -968,6 +1005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-01-31 19:28:26 -0700"
+    },
+    "done": true
+  },
   "bonsaitrees:root": {
     "criteria": {
       "bonsaipot_in_inventory": "2019-01-22 22:49:42 -0700"
@@ -1013,6 +1056,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2019-01-22 22:49:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-01-31 19:28:21 -0700"
     },
     "done": true
   },
@@ -1160,9 +1209,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2019-02-03 14:45:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-01-22 22:46:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-02-03 00:18:33 -0700"
     },
     "done": true
   },
@@ -1217,6 +1278,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2019-01-22 22:29:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-02-03 00:51:37 -0700"
     },
     "done": true
   },
@@ -1287,7 +1354,9 @@
       "beaches": "2019-01-22 15:07:29 -0700",
       "plains": "2019-01-23 18:02:04 -0700",
       "ocean": "2019-01-21 14:39:28 -0700",
-      "river": "2019-01-22 15:07:15 -0700"
+      "extreme_hills": "2019-02-03 00:36:28 -0700",
+      "river": "2019-01-22 15:07:15 -0700",
+      "stone_beach": "2019-02-03 00:36:23 -0700"
     },
     "done": false
   },
@@ -1360,6 +1429,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2019-01-22 22:50:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-02-03 00:51:37 -0700"
     },
     "done": true
   },
